@@ -1,0 +1,18 @@
+.container{
+    height: 50vh;
+    width: 50vw;
+    background-color: lightgray;
+}
+
+#input-field > span{
+    font-family:"helvetica, sans-serif";
+    font-size: large;
+    font-weight: bolder;
+    /* border: 1px solid red;    */
+}
+
+#input-field input[type="text"]{
+    /* border: 1px solid red; */
+    width: 48%;
+    margin-left: 15px;
+}
